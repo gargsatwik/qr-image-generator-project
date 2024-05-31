@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "inquirer": "^9.2.22",
+    "qr-image": "^3.2.0"
+  },
+  "name": "qr-code-generator",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Satwik Garg",
+  "license": "ISC",
+  "description": "Generating QR code for any given url"
+}
